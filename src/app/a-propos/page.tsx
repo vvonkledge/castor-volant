@@ -44,22 +44,22 @@ export default function About() {
                 </div>
                 <div className="lg:order-first lg:row-span-2">
                     <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-                        Miguel Stevenson, gardien des arbres d'Ambierle.</h1>
+                        Miguel Stevenson, gardien des arbres d&apos;Ambierle.</h1>
                     <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
                         <p>
-                            Un arboriste grimpeur est un praticien spécialiste de l&#39;entretien des arbres d’ornement. Il
+                            Un arboriste grimpeur est un praticien spécialiste de l&#39;entretien des arbres d&apos;ornement. Il
                             grimpe dans l&#39;arbre avec un matériel technique et sécurisé afin d&#39;effectuer l&#39;entretien
                             nécessaire.
                         </p>
                         <p>
-                            Depuis l’obtention d’un brevet d’Études Professionnelles en travaux forestiers et un
+                            Depuis l&apos;obtention d&apos;un brevet d&apos;Études Professionnelles en travaux forestiers et un
                             certificat de spécialisation en taille et soins aux arbres je pratique ce métier-passion.
-                            Fort de plusieurs années d’expérience en tant que chef d’équipe et gestionnaire de chantiers
-                            au sein d’une entreprise d’élagage, je prends à cœur la relation avec mes clients et mes
+                            Fort de plusieurs années d&apos;expérience en tant que chef d&apos;équipe et gestionnaire de chantiers
+                            au sein d&apos;une entreprise d&apos;élagage, je prends à cœur la relation avec mes clients et mes
                             partenaires.
                         </p>
                         <p>
-                            Castor Volant, c’est avant tout des conseils professionnels de qualité et des collaborations
+                            Castor Volant, c&apos;est avant tout des conseils professionnels de qualité et des collaborations
                             ciblées avec d&#39;autres spécialistes pour une expertise approfondie des chantiers à mener.
                         </p>
                     </div>

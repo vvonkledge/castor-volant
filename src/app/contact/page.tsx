@@ -42,7 +42,7 @@ export default function Contact() {
                             </div>
                             <h2 className="text-4xl font-bold tracking-tight text-gray-900">Get in touch</h2>
                             <p className="mt-6 text-lg leading-8 text-gray-600">
-                                Discutons ensemble de votre projet !<br /> Que ce soit par e-mail, téléphone ou perchés sur un arbre, le choix vous appartient. Je m'adapterai à votre préférence pour échanger sur vos projets.
+                                Discutons ensemble de votre projet !<br /> Que ce soit par e-mail, téléphone ou perchés sur un arbre, le choix vous appartient. Je m&apos;adapterai à votre préférence pour échanger sur vos projets.
                             </p>
                             <dl className="mt-10 space-y-4 text-base leading-7 text-gray-600">
                                 <div className="flex gap-x-4">
